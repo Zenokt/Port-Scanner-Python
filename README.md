@@ -10,9 +10,9 @@ This is a lightweight, multi-purpose TCP Port Scanner developed to understand th
 - Clean and easy-to-read console output.
 
 ## Technical Skills Applied
-- [cite_start]**Language:** Python [cite: 14]
-- [cite_start]**Networking:** TCP/IP Protocols and Port analysis [cite: 24]
-- [cite_start]**Tools:** Developed in a Linux environment (Kali Linux) [cite: 7, 18, 26]
+-**Language:** Python [cite: 14]
+-**Networking:** TCP/IP Protocols and Port analysis [cite: 24]
+-**Tools:** Developed in a Linux environment (Kali Linux) [cite: 7, 18, 26]
 
 ## Installation & Usage
 1. Clone the repository:
